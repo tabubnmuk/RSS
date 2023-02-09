@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>RSS</title>
+        <link>https://www.abc.es/xlsemanal/wp-content/uploads/sites/5/2022/06/viruela-mono-efectos-enfermedad-vacunacion-infantil-3.jpg</link>
+        <description>Current News</description>
+        <copyright>2023. All rights reserved</copyright>
+        <category>Web development</category>
+        <language>es-ES</language>
+        <image>
+            <url>https://www.abc.es/xlsemanal/wp-content/uploads/sites/5/2022/06/viruela-mono-efectos-enfermedad-vacunacion-infantil-2.jpg</url>
+            <title>La nueva plaga</title>
+            <link>https://www.abc.es/xlsemanal/salud/viruela-mono-variante-vacunas-historia-virus.html</link>
+        </image> 
+        <item>
+            <title>Historia Viruela</title>
+            <link>https://www.abc.es/xlsemanal/salud/viruela-mono-variante-vacunas-historia-virus.html</link>
+            <description>News about the variation of viruela</description>
+            <comments>https://www.abc.es/xlsemanal/salud/viruela-mono-variante-vacunas-historia-virus.html</comments>
+            <enclosure url="https://media.tenor.com/1j1e0bDyBYYAAAAd/varicela-picazon.gif" length="78645" type="image/gif" />
+        </item>
+    </channel>
+</rss>
+
